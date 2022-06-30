@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ikare/static/css/main.edb9f947.chunk.css",
+    "main.js": "/ikare/static/js/main.3dd99188.chunk.js",
+    "main.js.map": "/ikare/static/js/main.3dd99188.chunk.js.map",
+    "runtime-main.js": "/ikare/static/js/runtime-main.7d97b721.js",
+    "runtime-main.js.map": "/ikare/static/js/runtime-main.7d97b721.js.map",
+    "static/css/2.31ff0196.chunk.css": "/ikare/static/css/2.31ff0196.chunk.css",
+    "static/js/2.b4a557f3.chunk.js": "/ikare/static/js/2.b4a557f3.chunk.js",
+    "static/js/2.b4a557f3.chunk.js.map": "/ikare/static/js/2.b4a557f3.chunk.js.map",
+    "static/js/3.cada3315.chunk.js": "/ikare/static/js/3.cada3315.chunk.js",
+    "static/js/3.cada3315.chunk.js.map": "/ikare/static/js/3.cada3315.chunk.js.map",
+    "index.html": "/ikare/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/ikare/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.edb9f947.chunk.css.map": "/ikare/static/css/main.edb9f947.chunk.css.map",
+    "static/js/2.b4a557f3.chunk.js.LICENSE.txt": "/ikare/static/js/2.b4a557f3.chunk.js.LICENSE.txt",
+    "static/media/iKare.810f0a90.png": "/ikare/static/media/iKare.810f0a90.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d97b721.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.b4a557f3.chunk.js",
+    "static/css/main.edb9f947.chunk.css",
+    "static/js/main.3dd99188.chunk.js"
+  ]
+}
